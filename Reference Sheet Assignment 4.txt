@@ -1,0 +1,15 @@
+1. https://kimmobrunfeldt.github.io/progressbar.js/
+Brunfeldt, K. (n.d.). Progressbar. ProgressBar.js - Progress bars with JavaScript. Retrieved April 16, 2023, from 
+https://kimmobrunfeldt.github.io/progressbar.js/ 
+
+2. https://www.cssscript.com/digital-clock-progress-bar/
+CSS Script. (2021, January 13). Stylish Digital Clock with progress bar. CSS Script. Retrieved April 16, 2023, from https://www.cssscript.com/digital-clock-progress-bar/ 
+
+3. https://jsfiddle.net/kimmobrunfeldt/rfny4ftb/
+JSFiddle. (n.d.). JSFiddle. Retrieved April 16, 2023, from https://jsfiddle.net/kimmobrunfeldt/rfny4ftb/ 
+
+4. https://getbootstrap.com/docs/4.0/components/forms/ 
+Mark Otto, J. T. (n.d.). Forms. · Bootstrap. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.0/components/forms/ 
+
+5. https://getbootstrap.com/docs/4.4/getting-started/introduction/
+Mark Otto, J. T. (n.d.). Introduction. · Bootstrap. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.4/getting-started/introduction/ 

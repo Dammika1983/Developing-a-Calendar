@@ -1,0 +1,30 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Document
+Document - web apis: MDN. Web APIs | MDN. (n.d.). Retrieved March 10, 2023, from https://developer.mozilla.org/en-US/docs/Web/API/Document 
+
+https://www.valentinog.com/blog/html-table/
+Back to the basics: How to generate a table with JavaScript. Valentino Gagliardi. (2020, February 2). Retrieved March 10, 2023, from https://www.valentinog.com/blog/html-table/ 
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+: The table element - HTML: Hypertext markup language: MDN. HTML: HyperText Markup Language | MDN. (n.d.). Retrieved March 10, 2023, from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table 
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+: The table element - HTML: Hypertext markup language: MDN. HTML: HyperText Markup Language | MDN. (n.d.). Retrieved March 10, 2023, from https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+ 
+https://www.w3schools.com/jsref/dom_obj_table.asp
+HTML dom table object. (n.d.). Retrieved March 10, 2023, from https://www.w3schools.com/jsref/dom_obj_table.asp 
+
+https://www.geeksforgeeks.org/html-dom-createelement-method/
+GeeksforGeeks. (2022, July 8). HTML: Dom createelement() method. GeeksforGeeks. Retrieved March 10, 2023, from https://www.geeksforgeeks.org/html-dom-createelement-method/ 
+
+https://www.tutorialspoint.com/html-dom-createelement-method
+HTML dom createelement() method. Tutorials Point. (n.d.). Retrieved March 10, 2023, from https://www.tutorialspoint.com/html-dom-createelement-method 
+
+https://stackoverflow.com/questions/14643617/create-table-using-javascript
+Manny FitzgeraldManny Fitzgerald                    1, CerbrusCerbrus                    69.4k1818 gold badges133133 silver badges146146 bronze badges, Craig TaubCraig Taub                    4, Nitin PawarNitin Pawar                    1, Sanan AliSanan Ali                    1, user3802764user3802764                    9711 silver badge11 bronze badge, Avadhut ThoratAvadhut Thorat                    8271111 silver badges66 bronze badges, Rajiv BhardwajRajiv Bhardwaj                    29333 silver badges99 bronze badges, VanuanVanuan                    31k99 gold badges9797 silver badges101101 bronze badges, Shubham AryaShubham Arya                    57555 silver badges1717 bronze badges, PythonProgrammiPythonProgrammi                    21.8k33 gold badges4040 silver badges3434 bronze badges, Pavani RudraPavani Rudra                    933 bronze badges, Brett SBrett S                    55944 silver badges88 bronze badges, vicky patelvicky patel                    66922 gold badges77 silver badges1414 bronze badges, user12449933user12449933                    16066 bronze badges, persec10000persec10000                    70022 gold badges1010 silver badges1616 bronze badges, Mohamed YasserMohamed Yasser                    122 bronze badges, &amp; UstasUstas                    36222 silver badges88 bronze badges. (1959, December 1). Create table using Javascript. Stack Overflow. Retrieved March 10, 2023, from https://stackoverflow.com/questions/14643617/create-table-using-javascript 
+
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+JavaScript HTML Dom Eventlistener. JavaScript DOM EventListener. (n.d.). Retrieved March 10, 2023, from https://www.w3schools.com/js/js_htmldom_eventlistener.asp 
+
+https://www.w3schools.com/jsref/dom_obj_pushbutton.asp
+HTML dom button object. (n.d.). Retrieved March 10, 2023, from https://www.w3schools.com/jsref/dom_obj_pushbutton.asp 

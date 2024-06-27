@@ -1,0 +1,49 @@
+
+
+https://www.w3schools.com/jsref/met_win_settimeout.asp
+Window settimeout(). Window setTimeout() Method. (n.d.). Retrieved April 6, 2023, from https://www.w3schools.com/jsref/met_win_settimeout.asp 
+
+
+https://www.w3schools.com/jquery/jquery_hide_show.asp
+Jquery effects - hide and show. (n.d.). Retrieved April 6, 2023, from https://www.w3schools.com/jquery/jquery_hide_show.asp 
+
+
+
+https://stackoverflow.com/questions/4069982/document-getelementbyid-vs-jquery
+Phillip SennPhillip Senn 46.3k8989 gold badges255255 silver badges372372 bronze badges, SLaksSLaks 861k176176 gold badges18951895 silver badges19591959 bronze badges, RightSaidFredRightSaidFred 11.1k3434 silver badges3535 bronze badges, nurdyguynurdyguy 2, MattMatt 73.9k2626 gold badges152152 silver badges180180 bronze badges, AndreyAndrey                    1, sdaiglesdaigle 12111 silver badge44 bronze badges, NipunaNipuna 6, KobbyKobby 58044 silver badges1313 bronze badges, steve bankssteve banks 8611 silver badge33 bronze badges, frank-dspeedfrank-dspeed 8941111 silver badges2929 bronze badges, Hadi MirHadi Mir 4, &amp; Mazhar MIKMazhar MIK  1. (1957, August 1). Document.getElementById vs jquery $(). Stack Overflow. Retrieved April 6, 2023, from https://stackoverflow.com/questions/4069982/document-getelementbyid-vs-jquery 
+
+
+
+https://stackoverflow.com/questions/268490/jquery-document-createelement-equivalent
+Rob Stevenson-LeggettRob Stevenson-Leggett 35.1k2121 gold badges8787 silver badges140140 bronze badges, nickfnickf 533k198198 gold badges649649 silver badges721721 bronze badges, Adam BellaireAdam Bellair 107k1919 gold badges148148 silver badges163163 bronze badges, kamikami 95799 silver badges88 bronze badges, abernierabernier 26.6k2020 gold badges8181 silver badges112112 bronze badges, BrianBrian 29.6k1515 gold badges8686 silver badges8787 bronze badges, Om ShankarOm Shankar 7, Adam ZielinskiAdam Zielinski 2, Shimon DoodkinShimon Doodkin 4, AcidicChipAcidicChip  15122 silver badges44 bronze badges, ern0ern0 3, RandyRandy 4111 silver badge11 bronze badge, João Pimentel FerreiraJoão Pimentel Ferreira 13.5k99 gold badges7979 silver badges9898 bronze badges, Vladislav LadickyVladislav Ladicky 2, &amp; James HughesJames Hughes 6. (1955, August 1). JQuery document.createelement equivalent? Stack Overflow. Retrieved April 6, 2023, from https://stackoverflow.com/questions/268490/jquery-document-createelement-equivalent 
+
+
+https://www.indeed.com/career-advice/career-development/what-is-test-data
+What is Test Data? types, benefits, tips and examples - indeed. (n.d.). Retrieved April 6, 2023, from https://www.indeed.com/career-advice/career-development/what-is-test-data 
+
+
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_validation_html
+W3Schools online HTML editor. W3Schools Online Web Tutorials. (n.d.). Retrieved April 6, 2023, from https://www.w3schools.com/js/tryit.asp?filename=tryjs_validation_html 
+
+
+https://api.jquery.com/id-selector/ 
+js.foundation, J. S. F.-. (n.d.). Id selector ("#id"). ID Selector ("#id") | jQuery API Documentation. Retrieved April 6, 2023, from https://api.jquery.com/id-selector/ 
+
+
+https://cdnjs.com/libraries/jquery 
+Jquery - libraries - cdnjs - the #1 free and open source CDN built to make life easier for developers. cdnjs. (n.d.). Retrieved April 6, 2023, from https://cdnjs.com/libraries/jquery 
+
+
+https://api.jquery.com/category/manipulation/dom-insertion-inside/
+js.foundation, J. S. F.-. (n.d.). Category: Dom insertion, inside. DOM Insertion, Inside | jQuery API Documentation. Retrieved April 6, 2023, from https://api.jquery.com/category/manipulation/dom-insertion-inside/  
+
+
+https://api.jquery.com/category/events/
+js.foundation, J. S. F.-. (n.d.). Category: Events. Events | jQuery API Documentation. Retrieved April 6, 2023, from https://api.jquery.com/category/events/ 
+
+
+https://bobbyhadz.com/blog/javascript-check-if-date-is-valid
+How to validate a date in JavaScript. bobbyhadz. (n.d.). Retrieved April 6, 2023, from https://bobbyhadz.com/blog/javascript-check-if-date-is-valid 
+
+
+
